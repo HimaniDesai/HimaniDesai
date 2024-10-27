@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himani Desai</h1>
 <h3 align="center">A passionate software developer from Canada.</h3>
 
-- 🔭 I’m currently working on [BandSite project](https://github.com/HimaniDesai/himani-desai-bandsite.git)
+- 🔭 I’m currently working on [React JS Application Development](https://github.com/HimaniDesai/finance_manager-client.git)
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, ReactJs, SCSS, HTML**
 
