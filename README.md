@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **JavaScript, NodeJS, ReactJs, SCSS, HTML**
 
 - 📫 How to reach me **de99hi@gmail.com**
+  
+- 🔭 My Portfolio WebPage: https://himanidesai.github.io/himani-desai-portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
